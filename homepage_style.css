@@ -1,0 +1,11 @@
+*{
+    background-color: #f3d6cd;
+    margin: 0;
+    padding: 0;
+
+}
+body{
+font-family: sans-serif;
+background: url(cover.png),#000;
+
+}
